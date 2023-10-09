@@ -1,12 +1,14 @@
-# Hello, world!
+# Hello, world
+
 Hello, world!
 
 ## Hello, world!
+
 Hello, world!
 
 ## Hello, world!
-    Hello, world!
-    Hello, world!
-    Hello, world!
-    [doc](doc.md)
 
+Hello, world!
+Hello, world!
+Hello, world!
+[doc](doc.md)
