@@ -1,14 +1,14 @@
 # Hello, world
 
-Hello, world!
+This my first paragraph.
 
-## Hello, world!
+## Who am I?
 
-Hello, world!
+I am a beginner in programming.
 
-## Hello, world!
+## What is my goal?
 
-Hello, world!
-Hello, world!
-Hello, world!
-[doc](doc.md)
+pLease see this page: [doc](doc.md)
+
+[]: # With this snippet from index.md:
+[]: # This is index.md
